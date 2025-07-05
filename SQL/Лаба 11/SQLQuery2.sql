@@ -1,0 +1,42 @@
+DECLARE @StudentList NVARCHAR(MAX) = '';
+
+DECLARE LOCAL_CURSOR CURSOR LOCAL FOR
+SELECT RTRIM(Name) FROM STUDENT;
+
+OPEN LOCAL_CURSOR;
+
+DECLARE @StudentName NVARCHAR(100);
+FETCH NEXT FROM LOCAL_CURSOR INTO @StudentName;
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+    SET @StudentList = @StudentList + @StudentName + ', ';
+    FETCH NEXT FROM LOCAL_CURSOR INTO @StudentName;
+END
+
+CLOSE LOCAL_CURSOR;
+DEALLOCATE LOCAL_CURSOR;
+
+SELECT 'Локальный курсор' AS CursorType, @StudentList AS StudentNames;
+Go
+
+
+DECLARE @StudentListGlobal NVARCHAR(MAX) = '';
+
+DECLARE GLOBAL_CURSOR CURSOR GLOBAL FOR
+SELECT RTRIM(Name) FROM STUDENT;
+
+OPEN GLOBAL_CURSOR;
+
+DECLARE @StudentName NVARCHAR(100);
+FETCH NEXT FROM GLOBAL_CURSOR INTO @StudentName;
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+    SET @StudentListGlobal = @StudentListGlobal + @StudentName + ', ';
+    FETCH NEXT FROM GLOBAL_CURSOR INTO @StudentName;
+END
+
+CLOSE GLOBAL_CURSOR;
+
+SELECT 'Глобальный курсор' AS CursorType, @StudentListGlobal AS StudentNames;

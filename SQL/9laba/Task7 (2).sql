@@ -1,0 +1,23 @@
+﻿USE UNIVER;
+
+IF OBJECT_ID('tempdb..#TEMP1') IS NOT NULL
+    DROP TABLE #TEMP1;
+
+CREATE TABLE #TEMP1
+(
+    ID int IDENTITY(1,1),
+    RANDOM_NUMBER_1 int,
+    RANDOM_NUMBER_2 int
+);
+
+DECLARE @iter int = 0;
+
+WHILE @iter < 10
+BEGIN
+    INSERT INTO #TEMP1 (RANDOM_NUMBER_1, RANDOM_NUMBER_2)
+    VALUES (CAST(RAND() * 1000 AS int), CAST(RAND() * 1000 AS int));
+    
+    SET @iter = @iter + 1;
+END
+
+SELECT * FROM #TEMP1;

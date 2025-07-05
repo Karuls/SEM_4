@@ -1,0 +1,9 @@
+use UNIVER
+
+select * from AUDITORIUM
+select * from AUDITORIUM_TYPE
+
+-- 1
+select at.AUDITORIUM, aa.AUDITORIUM_TYPENAME 
+from AUDITORIUM at
+inner join AUDITORIUM_TYPE aa on at.AUDITORIUM_TYPE = aa.AUDITORIUM_TYPE;

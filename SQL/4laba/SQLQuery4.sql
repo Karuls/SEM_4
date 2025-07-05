@@ -1,0 +1,18 @@
+use UNIVER
+
+
+select * from AUDITORIUM
+select * from AUDITORIUM_TYPE
+
+-- 2
+SELECT 
+    a.AUDITORIUM AS AuditoriumCode,
+    at.AUDITORIUM_TYPENAME AS AuditoriumTypeName
+FROM 
+    AUDITORIUM a
+INNER JOIN 
+    AUDITORIUM_TYPE at
+ON 
+    a.AUDITORIUM_TYPE = at.AUDITORIUM_TYPE
+WHERE 
+    a.AUDITORIUM_NAME LIKE '%компьютер%';

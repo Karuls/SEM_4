@@ -1,0 +1,9 @@
+use UNIVER
+SELECT top 1
+(SELECT avg(NOTE) from PROGRESS
+WHERE SUBJECT like 'нюХо')[нюХо],
+(SELECT avg(NOTE) from PROGRESS
+WHERE SUBJECT like 'йц')[йц],
+(SELECT avg(NOTE) from PROGRESS
+WHERE SUBJECT like 'ясад')ясад
+FROM PROGRESS

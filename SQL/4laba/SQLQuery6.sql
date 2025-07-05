@@ -1,0 +1,16 @@
+use UNIVER
+	
+--select * from PULPIT
+--select * from TEACHER 
+
+-- 4
+
+SELECT 
+    PULPIT.PULPIT_NAME AS Pulpit,
+    ISNULL(TEACHER.TEACHER_NAME, '***') AS Teacher
+FROM 
+    PULPIT
+LEFT OUTER JOIN 
+    TEACHER
+ON 
+    PULPIT.PULPIT = TEACHER.PULPIT;
