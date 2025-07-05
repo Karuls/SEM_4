@@ -1,0 +1,28 @@
+﻿<Window x:Class="CarSharing.View.laba7"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:CarSharing.Controls"
+        xmlns:local="clr-namespace:CarSharing.View"
+        mc:Ignorable="d"
+        Title="laba7" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <controls:SimpleTextBox 
+         TextValue="{Binding SomeText}" 
+         Width="100" Height="51" Content="лаба 7" FontSize="24"  />
+
+            <controls:SimpleToggle Width="100" Height="40"/>
+
+            <Button Command="controls:CustomCommands.ShowMessageCommand"
+                Content="Показать сообщение"
+                Width="150" Height="40"/>
+        </StackPanel>
+   
+
+
+
+    </Grid>
+</Window>

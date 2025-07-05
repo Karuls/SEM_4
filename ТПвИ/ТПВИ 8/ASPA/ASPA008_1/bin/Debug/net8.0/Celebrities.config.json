@@ -1,0 +1,8 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolderRequestPath": "/Photos",
+    "PhotosFolder": "C:\\Users\\fedor\\OneDrive\\Desktop\\ТПВИ 8\\ASPA\\ASPA008_1\\Photos",
+    "ConnectionString": "Server=DESKTOP-75R24I1;Database=Lab6;Trusted_Connection=True;TrustServerCertificate=True;",
+    "ISO3166alpha2Path": "C:\\Users\\fedor\\OneDrive\\Desktop\\ТПВИ 8\\ASPA\\ASPA008_1\\CountryCodes\\iso3166-1-alpha2-country-codes.json"
+  }
+}

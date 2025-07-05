@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D01348-FBCA-4A48-8096-E73AE5BA9BFD}|DAL004\\DAL004.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\dal004\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D01348-FBCA-4A48-8096-E73AE5BA9BFD}|DAL004\\DAL004.csproj|solutionrelative:dal004\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45644D40-401E-4131-A789-B4AC81952183}|ASPA005_2\\ASPA005_2.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa005_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45644D40-401E-4131-A789-B4AC81952183}|ASPA005_2\\ASPA005_2.csproj|solutionrelative:aspa005_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F86AA-3689-4BA5-AE4F-774B4FE83A86}|ASPA005_1\\ASPA005_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683F86AA-3689-4BA5-AE4F-774B4FE83A86}|ASPA005_1\\ASPA005_1.csproj|solutionrelative:aspa005_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16981A48-7700-444A-B1FA-BC28218564F6}|ASPA004_1\\ASPA004_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa004_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16981A48-7700-444A-B1FA-BC28218564F6}|ASPA004_1\\ASPA004_1.csproj|solutionrelative:aspa004_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9803F77-BACB-4225-8331-D026F3D16349}|Test_ASPA005_3\\Test_ASPA005_3.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\test_aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9803F77-BACB-4225-8331-D026F3D16349}|Test_ASPA005_3\\Test_ASPA005_3.csproj|solutionrelative:test_aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F309F5F1-41DD-4AC1-89E2-DEF192BC2228}|Test_DAL004\\Test_DAL004.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\test_dal004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F309F5F1-41DD-4AC1-89E2-DEF192BC2228}|Test_DAL004\\Test_DAL004.csproj|solutionrelative:test_dal004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|solutionrelative:aspa005_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975D0A0B-E50E-4F7B-BA92-B923AA3952DF}|ASPA004_3\\ASPA004_3.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975D0A0B-E50E-4F7B-BA92-B923AA3952DF}|ASPA004_3\\ASPA004_3.csproj|solutionrelative:aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE45B93A-E578-4999-8B66-DC5F1D3F01E1}|ASPA004_2\\ASPA004_2.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE45B93A-E578-4999-8B66-DC5F1D3F01E1}|ASPA004_2\\ASPA004_2.csproj|solutionrelative:aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE45B93A-E578-4999-8B66-DC5F1D3F01E1}|ASPA004_2\\ASPA004_2.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa004_2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE45B93A-E578-4999-8B66-DC5F1D3F01E1}|ASPA004_2\\ASPA004_2.csproj|solutionrelative:aspa004_2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16981A48-7700-444A-B1FA-BC28218564F6}|ASPA004_1\\ASPA004_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa004_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16981A48-7700-444A-B1FA-BC28218564F6}|ASPA004_1\\ASPA004_1.csproj|solutionrelative:aspa004_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa005_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|solutionrelative:aspa005_3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa\\aspa005_3\\aspa005_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B37E21D2-EE83-43AD-B9A9-0D9A2FBBA88E}|ASPA005_3\\ASPA005_3.csproj|solutionrelative:aspa005_3\\aspa005_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA005_1\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_1\\Program.cs",
+              "RelativeToolTip": "ASPA005_1\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:28:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPA004_2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPA004_2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T08:14:46.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPA004_1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPA004_1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T08:14:45.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_1\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_1\\Program.cs",
+              "RelativeToolTip": "ASPA004_1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:24:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA005_2\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_2\\Program.cs",
+              "RelativeToolTip": "ASPA005_2\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:41:42.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ASPA005_3.csproj",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\ASPA005_3.csproj",
+              "RelativeDocumentMoniker": "ASPA005_3\\ASPA005_3.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\ASPA005_3.csproj",
+              "RelativeToolTip": "ASPA005_3\\ASPA005_3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T08:41:42.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPA005_3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPA005_3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T22:31:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\Test_DAL004\\Program.cs",
+              "RelativeDocumentMoniker": "Test_DAL004\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\Test_DAL004\\Program.cs",
+              "RelativeToolTip": "Test_DAL004\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:12:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA005_3\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA005_3\\Program.cs",
+              "RelativeToolTip": "ASPA005_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:48:49.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\Test_ASPA005_3\\Program.cs",
+              "RelativeDocumentMoniker": "Test_ASPA005_3\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\Test_ASPA005_3\\Program.cs",
+              "RelativeToolTip": "Test_ASPA005_3\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADgv5wAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:12:33.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_2\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_2\\Program.cs",
+              "RelativeToolTip": "ASPA004_2\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:24:19.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_3\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\ASPA004_3\\Program.cs",
+              "RelativeToolTip": "ASPA004_3\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:24:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\DAL004\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL004\\Class1.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA\\DAL004\\Class1.cs",
+              "RelativeToolTip": "DAL004\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:30:08.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

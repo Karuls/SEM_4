@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\viewmodel\\databasecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:viewmodel\\databasecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\admin_panel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\admin_panel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\aboutus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\model\\entity_framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:model\\entity_framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\controls\\simpletoggle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\controls\\simpletoggle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\controls\\simpletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\controls\\simpletextbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\laba7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\laba7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\viewmodel\\globaldataforxaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:viewmodel\\globaldataforxaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\laba6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\laba6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\controls\\customcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\controls\\customcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\model\\laba10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:model\\laba10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\controls\\simpletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\controls\\simpletextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\shop_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\shop_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\shop_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\shop_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\favouriteswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\favouriteswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\laba7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\laba7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\viewmodel\\commands\\command_buttons_1_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:viewmodel\\commands\\command_buttons_1_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\controls\\simpletoggle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\controls\\simpletoggle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\viewmodel\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:viewmodel\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\admin_panel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\admin_panel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\model\\feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:model\\feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\viewmodel\\carsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:viewmodel\\carsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\carwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\carwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\model\\dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:model\\dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\favouriteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\favouriteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|c:\\users\\fedor\\onedrive\\desktop\\carsharing\\carsharing\\view\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92396125-99A8-4805-AE61-E60076E28EC0}|CarSharing.csproj|solutionrelative:view\\aboutus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin_Panel.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Admin_Panel.xaml",
+              "RelativeDocumentMoniker": "View\\Admin_Panel.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Admin_Panel.xaml",
+              "RelativeToolTip": "View\\Admin_Panel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T17:15:45.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Profile.xaml.cs",
+              "RelativeToolTip": "View\\Profile.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:21:47.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\Navigation.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Navigation.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\Navigation.cs",
+              "RelativeToolTip": "ViewModel\\Navigation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:26:27.206Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "laba7.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba7.xaml",
+              "RelativeDocumentMoniker": "View\\laba7.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba7.xaml",
+              "RelativeToolTip": "View\\laba7.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:43:45.409Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "laba7.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba7.xaml.cs",
+              "RelativeDocumentMoniker": "View\\laba7.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba7.xaml.cs",
+              "RelativeToolTip": "View\\laba7.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:44:13.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-02T10:25:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarSharing/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-02T10:24:51.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseCheck.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\DataBaseCheck.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DataBaseCheck.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\DataBaseCheck.cs",
+              "RelativeToolTip": "ViewModel\\DataBaseCheck.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:20:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "laba6.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba6.xaml",
+              "RelativeDocumentMoniker": "View\\laba6.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\laba6.xaml",
+              "RelativeToolTip": "View\\laba6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T17:26:29.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shop_window.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Shop_window.xaml",
+              "RelativeDocumentMoniker": "View\\Shop_window.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Shop_window.xaml",
+              "RelativeToolTip": "View\\Shop_window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T15:18:15.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T13:41:47.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Laba10.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Laba10.cs",
+              "RelativeDocumentMoniker": "Model\\Laba10.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Laba10.cs",
+              "RelativeToolTip": "Model\\Laba10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:19:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomCommands.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\CustomCommands.cs",
+              "RelativeDocumentMoniker": "View\\Controls\\CustomCommands.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\CustomCommands.cs",
+              "RelativeToolTip": "View\\Controls\\CustomCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:52:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Command_buttons_1_page.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\Commands\\Command_buttons_1_page.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Commands\\Command_buttons_1_page.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\Commands\\Command_buttons_1_page.cs",
+              "RelativeToolTip": "ViewModel\\Commands\\Command_buttons_1_page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:24.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimpleTextBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleTextBox.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Controls\\SimpleTextBox.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleTextBox.xaml.cs",
+              "RelativeToolTip": "View\\Controls\\SimpleTextBox.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:58:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimpleTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleTextBox.xaml",
+              "RelativeDocumentMoniker": "View\\Controls\\SimpleTextBox.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleTextBox.xaml",
+              "RelativeToolTip": "View\\Controls\\SimpleTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:57:38.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimpleToggle.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleToggle.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Controls\\SimpleToggle.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleToggle.xaml.cs",
+              "RelativeToolTip": "View\\Controls\\SimpleToggle.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:56:50.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SimpleToggle.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleToggle.xaml",
+              "RelativeDocumentMoniker": "View\\Controls\\SimpleToggle.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Controls\\SimpleToggle.xaml",
+              "RelativeToolTip": "View\\Controls\\SimpleToggle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:55:53.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\App.xaml",
+              "RelativeDocumentMoniker": "View\\App.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\App.xaml",
+              "RelativeToolTip": "View\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:26:54.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Feedbacks.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Feedbacks.cs",
+              "RelativeDocumentMoniker": "Model\\Feedbacks.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Feedbacks.cs",
+              "RelativeToolTip": "Model\\Feedbacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:50:09.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\OrdersWindow.xaml",
+              "RelativeDocumentMoniker": "View\\OrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\OrdersWindow.xaml",
+              "RelativeToolTip": "View\\OrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T12:46:05.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Profile.xaml",
+              "RelativeDocumentMoniker": "View\\Profile.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Profile.xaml",
+              "RelativeToolTip": "View\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T12:36:41.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity_Framework.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Entity_Framework.cs",
+              "RelativeDocumentMoniker": "Model\\Entity_Framework.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Entity_Framework.cs",
+              "RelativeToolTip": "Model\\Entity_Framework.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:36:04.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:35:11.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarsProducts.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\CarsProducts.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CarsProducts.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\CarsProducts.cs",
+              "RelativeToolTip": "ViewModel\\CarsProducts.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:33:29.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Dictionary.xaml",
+              "RelativeDocumentMoniker": "Model\\Dictionary.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\Model\\Dictionary.xaml",
+              "RelativeToolTip": "Model\\Dictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T12:16:24.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:07:55.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shop_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Shop_window.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Shop_window.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Shop_window.xaml.cs",
+              "RelativeToolTip": "View\\Shop_window.xaml.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAuwCQBAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:58:07.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\OrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\OrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\OrdersWindow.xaml.cs",
+              "RelativeToolTip": "View\\OrdersWindow.xaml.cs",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAswP4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:57:48.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FavouritesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\FavouritesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\FavouritesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\FavouritesWindow.xaml.cs",
+              "RelativeToolTip": "View\\FavouritesWindow.xaml.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAA8wFUBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:57:38.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\CarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\CarWindow.xaml.cs",
+              "RelativeToolTip": "View\\CarWindow.xaml.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:57:34.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AboutUS.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\AboutUS.xaml",
+              "RelativeDocumentMoniker": "View\\AboutUS.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\AboutUS.xaml",
+              "RelativeToolTip": "View\\AboutUS.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:55:46.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavouritesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\FavouritesWindow.xaml",
+              "RelativeDocumentMoniker": "View\\FavouritesWindow.xaml",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\FavouritesWindow.xaml",
+              "RelativeToolTip": "View\\FavouritesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:55:18.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalDataForXAML.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\GlobalDataForXAML.cs",
+              "RelativeDocumentMoniker": "ViewModel\\GlobalDataForXAML.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\ViewModel\\GlobalDataForXAML.cs",
+              "RelativeToolTip": "ViewModel\\GlobalDataForXAML.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:30:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_Panel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Admin_Panel.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Admin_Panel.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\Admin_Panel.xaml.cs",
+              "RelativeToolTip": "View\\Admin_Panel.xaml.cs",
+              "ViewState": "AgIAANoBAAAAAAAAAAAQwNcBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:27:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUS.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\AboutUS.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AboutUS.xaml.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\CarSharing\\View\\AboutUS.xaml.cs",
+              "RelativeToolTip": "View\\AboutUS.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:42:50.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "YcrjANTEEerfHsN0Te0FiUqTiu88BCZ614DnYXj9Edk=",
+  "Source": "ASPA006_1",
+  "BasePath": "_content/ASPA006_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA006_1\\wwwroot",
+      "Source": "ASPA006_1",
+      "ContentRoot": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\",
+      "BasePath": "_content/ASPA006_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\index.html",
+      "SourceId": "ASPA006_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\",
+      "BasePath": "_content/ASPA006_1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i888f78iyk",
+      "Integrity": "ssaramTsTWQHbKQLxa+F/8DYiLXCQzQ308tV0jROxk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\js\\celebrities.js",
+      "SourceId": "ASPA006_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\",
+      "BasePath": "_content/ASPA006_1",
+      "RelativePath": "js/celebrities#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u0s55dny30",
+      "Integrity": "4nmvoS2Ke9HGIgN+GTXVB94s1tXjC0Ylzma9CUO0/fQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\celebrities.js"
+    },
+    {
+      "Identity": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\styles\\style.css",
+      "SourceId": "ASPA006_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\",
+      "BasePath": "_content/ASPA006_1",
+      "RelativePath": "styles/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efn7giohxc",
+      "Integrity": "pjXkt9G2j3GB4WiXf9IjOB6jHRpr7UCt5ycvEEZV0nM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ssaramTsTWQHbKQLxa+F/8DYiLXCQzQ308tV0jROxk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ssaramTsTWQHbKQLxa+F/8DYiLXCQzQ308tV0jROxk0="
+        }
+      ]
+    },
+    {
+      "Route": "index.i888f78iyk.html",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ssaramTsTWQHbKQLxa+F/8DYiLXCQzQ308tV0jROxk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:07:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i888f78iyk"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ssaramTsTWQHbKQLxa+F/8DYiLXCQzQ308tV0jROxk0="
+        }
+      ]
+    },
+    {
+      "Route": "js/celebrities.js",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\js\\celebrities.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4nmvoS2Ke9HGIgN+GTXVB94s1tXjC0Ylzma9CUO0/fQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4nmvoS2Ke9HGIgN+GTXVB94s1tXjC0Ylzma9CUO0/fQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/celebrities.u0s55dny30.js",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\js\\celebrities.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4nmvoS2Ke9HGIgN+GTXVB94s1tXjC0Ylzma9CUO0/fQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:08:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0s55dny30"
+        },
+        {
+          "Name": "label",
+          "Value": "js/celebrities.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4nmvoS2Ke9HGIgN+GTXVB94s1tXjC0Ylzma9CUO0/fQ="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.css",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\styles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjXkt9G2j3GB4WiXf9IjOB6jHRpr7UCt5ycvEEZV0nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjXkt9G2j3GB4WiXf9IjOB6jHRpr7UCt5ycvEEZV0nM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/style.efn7giohxc.css",
+      "AssetFile": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\styles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pjXkt9G2j3GB4WiXf9IjOB6jHRpr7UCt5ycvEEZV0nM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 22:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efn7giohxc"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pjXkt9G2j3GB4WiXf9IjOB6jHRpr7UCt5ycvEEZV0nM="
+        }
+      ]
+    }
+  ]
+}

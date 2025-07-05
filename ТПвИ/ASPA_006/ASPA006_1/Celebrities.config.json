@@ -1,0 +1,7 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolder": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\Celebrities_Photos",
+    "ConnectionString": "Server=DESKTOP-75R24I1; Database=Lab6_Db; Trusted_Connection=true; TrustServerCertificate=Yes"
+  }
+
+}

@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\lifeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\lifeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184C1C5-126A-460A-A23C-254CB429D77E}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184C1C5-126A-460A-A23C-254CB429D77E}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|solutionrelative:dal_celebrity_mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184C1C5-126A-460A-A23C-254CB429D77E}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql_test\\dal_celebrity_mssql_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0184C1C5-126A-460A-A23C-254CB429D77E}|DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj|solutionrelative:dal_celebrity_mssql_test\\dal_celebrity_mssql_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity_mssql\\dal_celebrity_mssql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3340D990-53F3-4581-9AF6-582647FB9BE7}|DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj|solutionrelative:dal_celebrity_mssql\\dal_celebrity_mssql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity\\dal_celebrity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\dal_celebrity\\dal_celebrity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C0308B4-F81F-4B2B-A480-77AAFD59120E}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\wwwroot\\js\\celebrities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\js\\celebrities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\aspa006_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\aspa006_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|c:\\users\\fedor\\onedrive\\desktop\\aspa_006\\aspa006_1\\wwwroot\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{369DF72A-38CB-4957-A833-00B0483F09D3}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\app.http",
+              "RelativeDocumentMoniker": "ASPA006_1\\app.http",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\app.http",
+              "RelativeToolTip": "ASPA006_1\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-07T21:38:02.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lifeevent.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Lifeevent.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Lifeevent.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Lifeevent.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Lifeevent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:22:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DAL_Celebrity_MSSQL.csproj",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\DAL_Celebrity_MSSQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T09:26:04.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA006_1\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Program.cs",
+              "RelativeToolTip": "ASPA006_1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:16:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Init.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Init.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Init.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:43:22.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAL_Celebrity_MSSQL_Test.csproj",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL_Test\\DAL_Celebrity_MSSQL_Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T09:25:53.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:49:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Context.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Context.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:43:24.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPA006_1\\appsettings.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\appsettings.json",
+              "RelativeToolTip": "ASPA006_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T21:32:50.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Celebrities.config.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Celebrities.config.json",
+              "RelativeDocumentMoniker": "ASPA006_1\\Celebrities.config.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Celebrities.config.json",
+              "RelativeToolTip": "ASPA006_1\\Celebrities.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T22:12:52.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Exception.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Exception.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Exception.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:40:27.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Repository.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:26:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Celebrity.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "RelativeToolTip": "DAL_Celebrity_MSSQL\\Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:15:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_Celebrity.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:27:04.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL_Celebrity",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T11:07:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DAL_Celebrity.csproj",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\DAL_Celebrity\\DAL_Celebrity.csproj",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T09:25:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ASPA006_1.csproj",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\ASPA006_1.csproj",
+              "RelativeDocumentMoniker": "ASPA006_1\\ASPA006_1.csproj",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\ASPA006_1.csproj",
+              "RelativeToolTip": "ASPA006_1\\ASPA006_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T21:37:45.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "celebrities.js",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\js\\celebrities.js",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\js\\celebrities.js",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\js\\celebrities.js",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\js\\celebrities.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-07T22:05:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CelebritiesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\CelebritiesConfig.cs",
+              "RelativeDocumentMoniker": "ASPA006_1\\CelebritiesConfig.cs",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\CelebritiesConfig.cs",
+              "RelativeToolTip": "ASPA006_1\\CelebritiesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:40:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\index.html",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-07T22:06:55.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPA006_1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPA006_1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T21:49:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\styles\\style.css",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\styles\\style.css",
+              "ToolTip": "C:\\Users\\fedor\\OneDrive\\Desktop\\ASPA_006\\ASPA006_1\\wwwroot\\styles\\style.css",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\styles\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-07T22:06:41.082Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

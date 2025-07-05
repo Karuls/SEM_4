@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarSharing/1.0.0": {
+        "dependencies": {
+          "MaterialDesignColors": "5.2.0",
+          "MaterialDesignThemes": "5.2.0",
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
+          "System.Data.DataSetExtensions": "4.5.0"
+        },
+        "runtime": {
+          "CarSharing.dll": {}
+        }
+      },
+      "MaterialDesignColors/5.2.0": {
+        "runtime": {
+          "lib/net6.0/MaterialDesignColors.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "MaterialDesignThemes/5.2.0": {
+        "dependencies": {
+          "MaterialDesignColors": "5.2.0",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+        },
+        "runtime": {
+          "lib/net6.0/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      },
+      "System.Data.DataSetExtensions/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "CarSharing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UjmUOYY5KATgPlYcTHczRx4fxfWhDGI2bHdWfGgZjtPcO7KaPZK0FQDxxtt5cqLqRCCs646AIzUIF69R/qmr2Q==",
+      "path": "materialdesigncolors/5.2.0",
+      "hashPath": "materialdesigncolors.5.2.0.nupkg.sha512"
+    },
+    "MaterialDesignThemes/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mde1E1ZwBCXdb1+Nd3wrOVDJ9nym6MF7U0Uj9H8YVteAKoCghZKdH6oV263X1IDNYyHvYfAeJcG5CzmLzeYK1g==",
+      "path": "materialdesignthemes/5.2.0",
+      "hashPath": "materialdesignthemes.5.2.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    },
+    "System.Data.DataSetExtensions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==",
+      "path": "system.data.datasetextensions/4.5.0",
+      "hashPath": "system.data.datasetextensions.4.5.0.nupkg.sha512"
+    }
+  }
+}

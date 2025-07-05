@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "91gzSt1tusg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fedor\\OneDrive\\Desktop\\CarSharing\\RagnarekSoft\\RagnarekSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedor\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
+    "C:\\Users\\fedor\\.nuget\\packages\\wtelegramclient\\3.7.2\\wtelegramclient.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

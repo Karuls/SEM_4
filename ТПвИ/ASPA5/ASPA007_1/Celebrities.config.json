@@ -1,0 +1,6 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolder": "D:\\labs\\4semestr\\ProgrammingTechnologyInTheInternet\\labs\\lab6\\ASPA_006\\Celebrities_Photos",
+    "ConnectionString": "Server=DESKTOP-M0DRJL8; Database=Lab6; Trusted_Connection=true; TrustServerCertificate=Yes"
+  }
+}

@@ -1,0 +1,157 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWPF>true</UseWPF>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Model\Images\AdminIcon.png" />
+    <None Remove="Model\Images\CarInfoCoast.png" />
+    <None Remove="Model\Images\CarInfoEngine.png" />
+    <None Remove="Model\Images\CarInfoKM.png" />
+    <None Remove="Model\Images\delete.png" />
+    <None Remove="Model\Images\heart_liked.png" />
+    <None Remove="Model\Images\key.png" />
+    <None Remove="Model\Images\keys.png" />
+    <None Remove="Model\Images\liked.png" />
+    <None Remove="Model\Images\Orders.png" />
+    <None Remove="Model\Images\right.png" />
+    <None Remove="View\1.png" />
+    <None Remove="View\123123.jpg" />
+    <None Remove="View\1645771481_5-abrakadabra-fun-p-nervi-oboi-na-telefon-6.jpg" />
+    <None Remove="View\2.png" />
+    <None Remove="View\7a47b319944fedd0d8e154f81961f8fa.jpg" />
+    <None Remove="View\960x678_64.jpeg" />
+    <None Remove="View\AboutREG.jpg" />
+    <None Remove="View\AstonMartin.png" />
+    <None Remove="View\bently.png" />
+    <None Remove="View\contacts1.png" />
+    <None Remove="View\e6a4285s-960.jpg" />
+    <None Remove="View\f916c95c339767a5f92afcbd3e4084bb.jpg" />
+    <None Remove="View\Orders.png" />
+    <None Remove="View\porsche.jpg" />
+    <None Remove="View\Reg_About.jpg" />
+    <None Remove="View\Select.jpg" />
+    <None Remove="View\Stathem.jpg" />
+    <None Remove="View\Web_Photo_Editor.jpg" />
+    <None Remove="View\Web_Photo_Editor1.jpg" />
+    <None Remove="View\Аннотация 2025-05-01 170627.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Remove="View\App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="View\App.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Model\Images\111.jpg" />
+    <Resource Include="Model\Images\31b16f4e88c944e3d5ff705acee0c983 — копия.jpg" />
+    <Resource Include="Model\Images\31b16f4e88c944e3d5ff705acee0c983.jpg" />
+    <Resource Include="Model\Images\About.png" />
+    <Content Include="Model\Images\AdobeStock_717854395_Video_HD_Preview.mov" />
+    <Resource Include="Model\Images\AdminIcon.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\Avatar.png" />
+    <Resource Include="Model\Images\Car.png" />
+    <Content Include="Model\Images\Cars.mp4" />
+    <Resource Include="Model\Images\CarInfoCoast.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\CarInfoEngine.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\City.jpg" />
+    <Resource Include="Model\Images\city2.jpg" />
+    <Resource Include="Model\Images\city3.jpg" />
+    <Resource Include="Model\Images\delete.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\Earth.png" />
+    <Resource Include="Model\Images\Earth2.png" />
+    <Resource Include="Model\Images\earth3.png" />
+    <Resource Include="Model\Images\heart.png" />
+    <Resource Include="Model\Images\heart1.png" />
+    <Resource Include="Model\Images\heart_liked.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\icons8-studiovinari-128.png" />
+    <Resource Include="Model\Images\IconSearch.png" />
+    <Resource Include="Model\Images\key.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\liked.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\MOON.png" />
+    <Resource Include="Model\Images\moon1.png" />
+    <Resource Include="Model\Images\moon2.png" />
+    <Resource Include="Model\Images\moon3.png" />
+    <Resource Include="Model\Images\mute.png" />
+    <Resource Include="Model\Images\Orders.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\right.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\Russia.png" />
+    <Resource Include="Model\Images\Search.png" />
+    <Content Include="Model\Images\Search_Vectorsvg.svg" />
+    <Resource Include="Model\Images\Settings.png" />
+    <Resource Include="Model\Images\Settings1.png" />
+    <Resource Include="Model\Images\Settings2.png" />
+    <Content Include="Model\Images\shorts.mp4" />
+    <Resource Include="Model\Images\sound.png" />
+    <Content Include="Model\Images\Sound_Enter.wav" />
+    <Content Include="Model\Images\Sound_Enter2 — копия.wav" />
+    <Content Include="Model\Images\Sound_Enter2.wav" />
+    <Content Include="Model\Images\USA — копия.jfif" />
+    <Resource Include="Model\Images\USA — копия.png" />
+    <Content Include="Model\Images\USA.jfif" />
+    <Resource Include="Model\Images\CarInfoKM.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\USA.png" />
+    <Resource Include="Model\Images\UserPNG — копия.png" />
+    <Resource Include="Model\Images\UserPNG.png" />
+    <Resource Include="Model\Images\Wheel — копия.png" />
+    <Resource Include="Model\Images\Wheel.png" />
+    <Resource Include="View\1.png" />
+    <Resource Include="View\123123.jpg" />
+    <Resource Include="View\1645771481_5-abrakadabra-fun-p-nervi-oboi-na-telefon-6.jpg" />
+    <Resource Include="View\2.png" />
+    <Resource Include="View\7a47b319944fedd0d8e154f81961f8fa.jpg" />
+    <Resource Include="View\960x678_64.jpeg" />
+    <Resource Include="View\AboutREG.jpg" />
+    <Resource Include="View\AstonMartin.png" />
+    <Resource Include="View\bently.png" />
+    <Resource Include="View\contacts1.png" />
+    <Resource Include="View\e6a4285s-960.jpg" />
+    <Resource Include="View\f916c95c339767a5f92afcbd3e4084bb.jpg" />
+    <Resource Include="View\Orders.png" />
+    <Resource Include="View\porsche.jpg" />
+    <Resource Include="View\Reg_About.jpg" />
+    <Resource Include="View\Select.jpg" />
+    <Resource Include="View\Stathem.jpg" />
+    <Resource Include="View\Web_Photo_Editor.jpg" />
+    <Resource Include="View\Web_Photo_Editor1.jpg" />
+    <Resource Include="View\Аннотация 2025-05-01 170627.png" />
+  </ItemGroup>
+  <ItemGroup>
+	  <PackageReference Include="Extended.Wpf.Toolkit" Version="4.7.25104.5739" />
+	  <PackageReference Include="MaterialDesignColors" Version="5.2.0" />
+	  <PackageReference Include="MaterialDesignThemes" Version="5.2.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+	  <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

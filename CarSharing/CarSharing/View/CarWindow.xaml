@@ -1,0 +1,257 @@
+﻿<Window x:Class="CarSharing.View.CarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarSharing.View"
+        mc:Ignorable="d"
+        Title="CarWindow" Height="763" Width="1067" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="GridHeader" Background="#FF100E3D">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="175*"></RowDefinition>
+                <RowDefinition Height="54*"></RowDefinition>
+                <RowDefinition Height="113*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="54*"></ColumnDefinition>
+                <ColumnDefinition Width="71*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Image MaxWidth="650" Grid.Column="1" Grid.Row="0"
+                   Source="{Binding ImagePath}"
+                   VerticalAlignment="Bottom" />
+
+            <StackPanel Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="auto">
+                <TextBox
+                                 Text="{Binding CarName}" 
+                                 FontSize="56"
+                                 FontFamily="Arial" 
+                                 TextAlignment="Center"
+                                 BorderThickness="0,0,0,0" 
+                                 Foreground="White" 
+                                 FontWeight="Bold" 
+                                 Margin="5,0,0,0" Height="80" FontStyle="Italic" />
+
+                <TextBox
+                 Text="{Binding Features}"
+                 FontFamily="Candara"
+                 BorderThickness="0,0,0,0" 
+                 Foreground="Gray" 
+                 FontWeight="Bold" 
+                 Margin="5,0,0,0" TextWrapping="Wrap" FontSize="24" TextAlignment="Left" />
+
+                <Button x:Name="Login_Button" IsEnabled="True" Grid.Row="7" Style="{StaticResource MainButtonStyle}"  Content="{DynamicResource Rent}" VerticalAlignment="Stretch" Background="White"   FontSize="24" Margin="100,25,100,5" Foreground="#FF100E3D" Click="AddOrder_Click"/>
+
+            </StackPanel>
+
+            <Grid  Grid.Row="1" Grid.ColumnSpan="2">
+                <StackPanel  HorizontalAlignment="Center" VerticalAlignment="Stretch" Orientation="Horizontal">
+
+                    <Border CornerRadius="20" Width="230" MaxHeight="110" Background="#FF1C06B0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="61*"></ColumnDefinition>
+                                <ColumnDefinition Width="109*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Image x:Name="ImagePrice" Height="83" Width="83" Grid.Column="0" Source="/Model/Images/CarInfoCoast.png">
+                                <Image.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform ScaleX="1.1" ScaleY="1.1"/>
+                                        <SkewTransform/>
+                                        <RotateTransform/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </Image.RenderTransform>
+                            </Image>
+
+                            <StackPanel Grid.Column="1" Orientation="Vertical" Height="auto" VerticalAlignment="Bottom">
+
+                                <TextBox
+                   Text="{Binding Цена, StringFormat=' {0}$'}"
+                   FontFamily="Arial" 
+                   TextAlignment="Center"
+                   BorderThickness="0,0,0,0" 
+                   Foreground="White" 
+                   FontWeight="Bold" 
+                   FontStyle="Italic" FontSize="44" />
+
+
+                                <TextBox
+                   Text="{DynamicResource Per hour}" 
+                   FontFamily="Arial" 
+                   TextAlignment="Center"
+                   BorderThickness="0,0,0,0" 
+                   Foreground="#FF7D7D7D" 
+                   FontWeight="Bold" 
+                   FontStyle="Italic" FontSize="18" />
+
+                            </StackPanel>
+
+
+                        </Grid>
+                    </Border>
+
+                    <Border CornerRadius="20" Width="230"  MaxHeight="110" Background="#FF1C06B0" Margin="50,0,50,0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="61*"></ColumnDefinition>
+                                <ColumnDefinition Width="109*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.Column="0" Source="/Model/Images/CarInfoEngine.png"></Image>
+
+                            <StackPanel Grid.Column="1" Orientation="Vertical" Height="auto" VerticalAlignment="Bottom">
+
+                                <TextBox
+                                 Text="{Binding Объем_Двигателя, StringFormat=' {0}V'}"
+                                 FontFamily="Arial" 
+                                 TextAlignment="Center"
+                                 BorderThickness="0,0,0,0" 
+                                 Foreground="White" 
+                                 FontWeight="Bold" 
+                                 FontStyle="Italic" FontSize="44" />
+
+
+                                <TextBox
+                                Text="{DynamicResource Engine}" 
+                                FontFamily="Arial" 
+                                TextAlignment="Center"
+                                BorderThickness="0,0,0,0" 
+                                Foreground="#FF7D7D7D" 
+                                FontWeight="Bold" 
+                                FontStyle="Italic" FontSize="18" />
+
+                            </StackPanel>
+
+
+                        </Grid>
+                    </Border>
+
+                    <Border CornerRadius="20" Width="230" MaxHeight="110" Background="#FF1C06B0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="61*"></ColumnDefinition>
+                                <ColumnDefinition Width="109*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.Column="0" Source="/Model/Images/CarInfoKM.png"></Image>
+
+                            <StackPanel Grid.Column="1" Orientation="Vertical" Height="auto" VerticalAlignment="Bottom">
+
+                                <TextBox
+                  Text="{Binding Top_speed, StringFormat=' {0}'}"
+                  FontFamily="Arial" 
+                  TextAlignment="Center"
+                  BorderThickness="0,0,0,0" 
+                  Foreground="White" 
+                  FontWeight="Bold" 
+                  FontStyle="Italic" FontSize="44" />
+
+
+                                <TextBox
+                 Text="{DynamicResource TopSpeed}" 
+                 FontFamily="Arial" 
+                 TextAlignment="Center"
+                 BorderThickness="0,0,0,0" 
+                 Foreground="#FF7D7D7D" 
+                 FontWeight="Bold" 
+                 FontStyle="Italic" FontSize="18" />
+
+                            </StackPanel>
+
+
+                        </Grid>
+                    </Border>
+
+
+
+
+
+
+                </StackPanel>
+            </Grid>
+
+
+            <Border Grid.Row="2" Grid.ColumnSpan="2" Margin="30,20,30,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="44*"></RowDefinition>
+                        <RowDefinition Height="183*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,0,0,0">
+                        <Image x:Name="UserPhotoToComment" Source="/Model/Images/Avatar.png"></Image>
+                        <TextBox x:Name="UserLoginFeedback" materialDesign:HintAssist.Hint="{DynamicResource Commit}"  FontSize="15" HorizontalAlignment="Left" TextAlignment="Center" FontFamily="Dubai" Foreground="#FFF3EAEA" BorderBrush="#FFF9F5F5" Margin="20,0,0,0" VerticalAlignment="Bottom" KeyDown="UserLoginFeedback_KeyDown"/>
+                        
+                    </StackPanel>
+
+                    <ScrollViewer Margin="0,0,0,12" Grid.Row="1">
+
+                        <StackPanel>
+
+
+
+
+
+                            <!--ОТЗЫВЫ-->
+                            <ItemsControl x:Name="ItemControlsFeedbacks">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border BorderThickness="0" Padding="10" Margin="5" Background="#FF010020" CornerRadius="30">
+                                            <Grid>
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="130*"/>
+                                                    <ColumnDefinition Width="890*"/>
+                                                </Grid.ColumnDefinitions>
+
+                                                <!-- Аватар -->
+                                                <Border Grid.Column="0" Background="Black" CornerRadius="100" Width="90" Height="90" VerticalAlignment="Center" ClipToBounds="True">
+                                                    <Image Source="{Binding AvatarPath}" Stretch="UniformToFill">
+                                                        <Image.Clip>
+                                                            <EllipseGeometry Center="45,45" RadiusX="45" RadiusY="45"/>
+                                                        </Image.Clip>
+                                                    </Image>
+                                                </Border>
+
+                                                <!-- Имя пользователя и текст отзыва -->
+                                                <Grid Grid.Column="1">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="21*"/>
+                                                        <RowDefinition Height="109*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <TextBlock x:Name="UserLoginFeedbac" Text="{Binding Login_user}" FontSize="15" HorizontalAlignment="Left" TextAlignment="Center"     FontFamily="Dubai Medium" Foreground="#FFF3EAEA"/>
+                                                    <TextBlock x:Name="TextFeedBack" Grid.Row="1" Text="{Binding feedback}" FontSize="16" FontWeight="Bold" Margin="0,5,0,5" TextWrapping="Wrap" Foreground="#FFF3EAEA" />
+                                                </Grid>
+                                            </Grid>
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+
+                            <!--ОТЗЫВЫ-->
+
+
+
+                        </StackPanel>
+
+
+                    </ScrollViewer>
+                </Grid>
+
+
+            </Border>
+
+
+
+        </Grid>
+    </Grid>
+</Window>
+
+
+
+

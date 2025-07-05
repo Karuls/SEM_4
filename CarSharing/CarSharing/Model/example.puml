@@ -1,0 +1,13 @@
+@startuml
+class Car {
+  - color: String
+  - model: String
+  + startEngine()
+  + stopEngine()
+}
+class Driver {
+  - name: String
+  + drive(Car)
+}
+Driver --> Car : управляет
+@enduml
